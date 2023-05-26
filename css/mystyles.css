@@ -1,0 +1,92 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+nav{
+    background-color:rgb(66, 71, 84);
+}
+li{
+    display:inline; 
+}
+ul li a{
+    color:white; 
+    text-decoration:none; 
+    padding:20px; 
+}
+ul li a:hover{
+    background-color:rgb(7, 122, 153); 
+    padding:10px; 
+    color:white; 
+}
+footer{
+    background-color:rgb(66, 71, 84); 
+    color:white; 
+    text-align:center; 
+    padding:10px; 
+}
+.search{
+    float:right; 
+    padding:10px; 
+}
+h1{
+    padding-top:20px; 
+    color:rgb(160, 132, 99);
+    text-align:center; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+
+.about-body{
+    text-align:center;
+    padding:20px; 
+}
+
+#contact{
+    text-align:center; 
+    padding-bottom:20px; 
+}
+
+h2{
+    color:rgb(7, 122, 153);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#enquiry-form{
+    text-align:center; 
+    padding:20px; 
+    display:block;
+}
+
+#qualification{
+    text-align:center; 
+    padding:20px; 
+}
+
+#cert4-content{
+    display:none;
+}
+
+#cert3-content{
+    display:none; 
+}
+
+#diploma-content{
+    display:none; 
+}
+
+#qualification button{
+    margin-right:20px; 
+}
+
+.row{
+    margin:10px;
+}
+
+#enquiry-submit{
+    display:none;
+}
+
+#enquiry-button{
+    display:block; 
+    text-align:center; 
+}
+
+
